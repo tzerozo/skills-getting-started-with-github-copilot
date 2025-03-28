@@ -83,6 +83,8 @@ section h3 {
 
 .activity-card ul li {
   margin-bottom: 5px;
+  font-style: italic; /* Make participant names italic for better distinction */
+  color: #333; /* Slightly darker color for better readability */
 }
 
 .form-group {
